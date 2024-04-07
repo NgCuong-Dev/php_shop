@@ -1,0 +1,31 @@
+ {"products":[
+    {
+        "id":1,
+        "images":"https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/22/467a20e0d092334cb796d81c30881d75.JPG",
+        "name":"Lantana Dress - Đầm xòe phối đai",
+        "price":"2.290.000đ"
+    },
+    {
+        "id":2,
+        "images":"https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/04/eafb9e217b050680a6a258f10259ab2a.JPG",
+        "name":"Áo sơ mi PEPLUM cổ đức",
+        "price":"850.000đ"
+    }
+    ,{
+        "id":3,
+        "images":"https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/22/6d99f9f974702e2ea3607b0bd6594d6c.JPG",
+        "name":"Áo Blazer Dahlia Set",
+        "price":"2.290.000"
+    },{
+        "id":4,
+        "images":"https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/0502bb10ba8f34e65c38ba2de4bda8a6.JPG",
+        "name":"Áo kiểu Youthful Set",
+        "price":"2.290.000"
+    },{
+        "id":5,
+        "images":"https://pubcdn.ivymoda.com/files/product/thumab/400/2023/05/18/9ee98c9e5dcc7a335be81dab4dadaf04.jpg",
+        "name":"Cosmos Set - Áo công sở peplum và chân váy xòe",
+        "price":"2.290.000"
+    }
+
+]}
